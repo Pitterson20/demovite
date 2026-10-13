@@ -1,0 +1,13 @@
+{
+    "message": "Hello world",
+    "users": [
+        {
+            "name": "Heyner",
+            "age": 21
+        },
+        {
+            "name":"Sthuard",
+            "age": 21
+        }
+    ]
+}
